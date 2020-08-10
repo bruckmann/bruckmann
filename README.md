@@ -2,7 +2,7 @@
 </br>
 <p align="center">
    <a align="center" href="https://twitter.com/missmxcc" target="__blank">
-      <img src="https://img.shields.io/twitter/follow/missmxcc?color=%23fcc0fb&label=Felipe&logoColor=%23ff0090&style=social" >
+      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" >
    </a>
    <br>
    <br>
