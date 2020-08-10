@@ -7,5 +7,5 @@
 </h3>
 
 <h2 align="center>
-   Passionate about technology and a hot coffee, looking for new experiences as a developer
+   Passionate about technology and a hot coffee,<br> looking for new experiences as a developer
 </h2>
