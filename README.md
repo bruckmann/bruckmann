@@ -6,6 +6,6 @@
    </a>
 </h3>
 
-<h2 align="center>
+<h3 align="center>
    Passionate about technology and a hot coffee,<br> looking for new experiences as a developer
-</h2>
+</h3>
