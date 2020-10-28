@@ -12,6 +12,6 @@
    </a>
    <br>
    <br>
-   Passionate about technology and a hot coffee, looking for new experiences as a developer :pencil:
+   Passionate about technology and a hot coffee :sparkles:
    
 </p>
