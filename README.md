@@ -21,7 +21,6 @@
          <tr>
             <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=bruckmann&theme=dracula"/></td>
             <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruckmann&layout=compact&theme=dracula" /></td>
-            <td><img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=bruckmann&theme=dracula&layout=compact" /></td>
          </tr>   
       </table>
    </center>  
