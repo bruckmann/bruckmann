@@ -15,14 +15,13 @@
    Passionate about technology and a hot coffee :sparkles:
    </p>
 
-   <summary align="center">:zap: Github Stats</summary>
-   <br>
-   <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=bruckmann&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117">
-   </p>
    
-   <summary align="center" >:zap: Languages Used</summary>
-   <br>
-   <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruckmann&layout=compact&bg_color=0D1117&text_color=ffffff">
-   </p>
+   <center>
+      <table>
+         <tr>
+            <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=bruckmann&theme=dracula"/></td>
+            <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruckmann&layout=compact&theme=dracula" /></td>
+            <td><img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=bruckmann&theme=dracula&layout=compact"/></td>
+         </tr>   
+      </table>
+   </center>  
