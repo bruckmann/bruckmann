@@ -15,12 +15,8 @@
    Passionate about technology and a hot coffee :sparkles:
    </p>
 
-   <details align="center">
-      <summary>:zap: Github Stats</summary>
-      <img src="https://github-readme-stats.vercel.app/api?username=bruckmann&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117">
-    </details>
+   <summary align="center">:zap: Github Stats</summary>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bruckmann&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117">
    
-   <details align="center">
-     <summary>:zap: Languages Used</summary>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruckmann&layout=compact&bg_color=0D1117&text_color=ffffff">
-   </details>
+   <summary align="center" >:zap: Languages Used</summary>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruckmann&layout=compact&bg_color=0D1117&text_color=ffffff">
