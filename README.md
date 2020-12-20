@@ -16,7 +16,7 @@
    </p>
 
    
-   <center>
+   <center aligh="center">
       <table>
          <tr>
             <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=bruckmann&theme=dracula"/></td>
