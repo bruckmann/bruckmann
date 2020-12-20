@@ -16,7 +16,13 @@
    </p>
 
    <summary align="center">:zap: Github Stats</summary>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bruckmann&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117">
+   <br>
+   <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=bruckmann&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117">
+   </p>
    
    <summary align="center" >:zap: Languages Used</summary>
+   <br>
+   <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruckmann&layout=compact&bg_color=0D1117&text_color=ffffff">
+   </p>
