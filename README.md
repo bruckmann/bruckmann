@@ -10,11 +10,3 @@ I am **Felipe Brückmann Flores** working as **FullStack Developer @Teltec Solut
 - 📫 How to reach me: **[Twitter](https://twitter.com/missmxcc), [Linkedin](https://www.linkedin.com/in/felipefloress/)**
 
 </sub>
-<br/>
-   
-<table align="center">
-  <tr>
-     <td><img width="300px"  src="https://github-readme-stats.vercel.app/api?username=bruckmann&theme=dracula"/></td>
-     <td><img width="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruckmann&layout=compact&theme=dracula" /></td>
-  </tr>   
-</table>
