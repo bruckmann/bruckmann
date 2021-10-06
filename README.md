@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Felipe Brückmann Flores** working as **FullStack Developer @Teltec Solutions as an _intern_** using technologies like _JavaScript_ (_React_, _TypeScript_, _Styled Components_), _NodeJS_ (_TypeScript_), Azure (_Functions_ & _Api Management_).󠀠
+I am **Felipe Brückmann Flores** working as **FullStack Developer @Teltec Solutions using technologies like _JavaScript_ (_React_, _TypeScript_, _Styled Components_), _NodeJS_ (_TypeScript_), Azure (_Functions_ & _Api Management_).󠀠
 
 <sub>
 
