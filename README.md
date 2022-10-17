@@ -4,9 +4,9 @@ I am **Felipe Brückmann Flores** working as **Software Engineer** using technol
 
 <sub>
 
-- :school: I'm a Systems Analysis and Development student at @Faculdade de Tecnolologia SENAI/SC
+- :school: I'm a Systems Analysis and Development student at **@Unisenai - Universidade SENAI/SC**
 - 🔭 I’m currently working as **Software Engineer at @3778**
-- 🌱 I’m currently learning **React, NodeJS, GraphQL, GoLang, Vala, ...**
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/felipefloress/)**
+- 🌱 I’m currently learning **React, NodeJS, GraphQL, GoLang, Deep Learning, ...**
+- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/felipefloress/)**
 
 </sub>
