@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm **Felipe Brückmann Flores**, a Full-Stack Software Engineer passionate about terminal based tools ⌨️.
+### I'm **Felipe Brückmann Flores**, a Software Engineer passionate about terminal based tools ⌨️.
 
 - 🔭 I’m currently working as **Specialist Software Engineer at @Google provided by @HCLTech.** Working with some tech like Python, Golang and Java.
 - 🌱 I’m currently learning **Swift, Rust, and some other interesting things**
